@@ -72,6 +72,7 @@ public class cuatroenlinea { // Inicio del programa
   }
 
   public static void mostratTurnoActual(boolean turno) {
+  
     if (turno) {
       out.println("Le toca al jugador 1");
     } else {
